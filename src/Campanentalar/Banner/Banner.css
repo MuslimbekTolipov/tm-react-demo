@@ -1,0 +1,83 @@
+.banner{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-gap: 10px;
+    width: 100%;
+    margin-top: 20px;
+}
+.img{
+    background-image: url("../../assest/gul.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 500px;
+    position: relative;
+}
+.img button{
+  width: 100px;
+  height: 45px;
+  background: rgba(6, 111, 20, 0.7);
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  position: absolute;
+}
+.img .btnca{
+    margin-top: 100px;
+    margin-left: -50px;
+}
+.img .btnt{
+    margin-top: 20px;
+    margin-left:230px;
+}
+.img .btnpl{
+    margin-top: 270px;
+    margin-left: 200px;
+}
+.grow {
+  width: 500px;
+}
+.grow h1{
+    margin-top: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+    font-family: 'Nunito';
+    font-style: normal;
+}
+.grow .btn{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.btn .barg img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+ .btn button{
+    width: 120px;
+    height: 40px;
+    padding: 10px;
+    background-color: #066F14;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.son{
+    margin-top: -100px;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+.son .bir{
+    margin-left: 70px;
+}
+.bi h2{
+    margin-bottom: 15px;
+}
+.bir h2{
+    margin-bottom: 15px;
+}

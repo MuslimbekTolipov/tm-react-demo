@@ -1,0 +1,37 @@
+.says{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    margin-top: 40px;
+}
+.yozuv h2 {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+}
+.yozuv p {
+  width: 450px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+}
+.yashil {
+  width: 550px;
+  height: 160px;
+  background-color: #066f14;
+  padding: 10px;
+  margin-top: 60px;
+  z-index: 10;
+}
+.yashil img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.yashil p {
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+}

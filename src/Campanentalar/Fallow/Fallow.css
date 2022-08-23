@@ -1,0 +1,19 @@
+.fall h2 {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 57px;
+  text-align: center;
+}
+.fall p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+}
+.box{
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+    margin-top: 40px;
+}

@@ -1,0 +1,29 @@
+nav{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+nav h1{
+    margin-right: 30px;
+}
+.navbar a{
+    color: black;
+    text-decoration: none;
+    margin-left: 35px;
+}
+.nav a{
+    color: black;
+    text-decoration: none;
+    margin-right: 35px;
+}
+.nav button{
+    width: 80px;
+    height: 40px;
+    padding: 10px;
+    background-color:#066F14;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}

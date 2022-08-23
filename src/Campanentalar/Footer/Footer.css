@@ -1,0 +1,19 @@
+.footer{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 30px;
+    margin-top: 100px;
+}
+.aaa p{
+    width: 400px;
+    margin-bottom: 30px;
+}
+.aaa h3{
+    margin-bottom: 20px;
+}
+.bbb h3{
+    margin-bottom: 20px;
+}
+.bbb p{
+    margin-bottom: 15px;
+}

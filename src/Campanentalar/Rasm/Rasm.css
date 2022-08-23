@@ -1,0 +1,6 @@
+.rasm img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    background-color: #F6EDE8;
+}

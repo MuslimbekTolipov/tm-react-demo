@@ -1,0 +1,53 @@
+.about {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-gap: 30px;
+  margin-top: 100px;
+}
+.about .bg {
+  background-color: #066f14;
+  width: 400px;
+  height: 400px;
+  padding-top: 30px;
+  padding-left: 40px;
+}
+.about .bg img {
+  width: 400px;
+  height: 400px;
+}
+.about .about_text {
+  width: 500px;
+}
+.about_text h2 {
+  width: 400px;
+  margin: 10px 0;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 50px;
+}
+.about_text p {
+  width: 450px;
+  margin-bottom: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+}
+.about_text b {
+  width: 450px;
+  margin-bottom: 30px;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 160%;
+}
+.about_text button {
+  width: 100px;
+  height: 40px;
+  background-color: #066f14;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  margin-top: 30px;
+}
